@@ -1,3 +1,5 @@
+#include <cmath>
+
 class Vec3 {
 	public:
 		Vec3() : v{0.0f, 0.0f, 0.0f} {}

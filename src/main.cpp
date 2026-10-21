@@ -1,7 +1,6 @@
 #include <iostream>
+#include "math/vec3.h"
 
-
-#include "drone.h"
 
 int main() {
 	std::cout << "=== Actor setup ===" << std::endl;	
